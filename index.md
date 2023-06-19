@@ -1,5 +1,6 @@
 # Arduino Game Console
 The arduino game console is a console that allows the user to play one of two games: hangman and star chaser. The user uses the buttons on the console to choose between the two games and play them.
+<!-- Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you’ve built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! -->
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Siri K.| Irvington High School | Aerospace Engineering | Rising Junior
@@ -8,13 +9,28 @@ The arduino game console is a console that allows the user to play one of two ga
 ![Headstone Image](logo.svg)
   
 # Final Milestone
+<!-- For your final milestone, explain the outcome of your project. Key details to include are:
 
+What you’ve accomplished since your previous milestone
+What your biggest challenges and triumphs were at BSE
+A summary of key topics you learned about
+What you hope to learn in the future after everything you’ve learned at BSE -->
 
 # Second Milestone
+<!-- For your second milestone, explain what you’ve worked on since your previous milestone. You can highlight:
 
+Technical details of what you’ve accomplished and how they contribute to the final goal
+What has been surprising about the project so far
+Previous challenges you faced that you overcame
+What needs to be completed before your final milestone -->
 
 # First Milestone
+<!-- For your first milestone, describe what your project is and how you plan to build it. You can include:
 
+An explanation about the different components of your project and how they will all integrate together
+Technical progress you’ve made so far
+Challenges you’re facing and solving in your future milestones
+What your plan is to complete your project -->
 
 # Starter Project
   For my starter project, I chose to build the useless box. I chose to do this because I always wondered how flipping a switch wowuld cause an arm to move up from the box, flip the switch, and go back inside the box. Through building the useless box, I was able to find the answer to my question: flipping the switch triggers the motor, making it move counter-clockwise. This causes the arm, attached to the motor, to move up and out of the box. Once it moves far enough to flip the switch, the motor moves clockwise, moving the arm back to its original position. 
