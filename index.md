@@ -10,24 +10,24 @@ The arduino game console is a console that allows the user to play one of two ga
 
 ![Headstone Image](logo.svg)
   
-# Final Milestone
-<!-- For your final milestone, explain the outcome of your project. Key details to include are:
+<!-- # Final Milestone
+For your final milestone, explain the outcome of your project. Key details to include are:
 
 What you’ve accomplished since your previous milestone
 What your biggest challenges and triumphs were at BSE
 A summary of key topics you learned about
-What you hope to learn in the future after everything you’ve learned at BSE -->
+What you hope to learn in the future after everything you’ve learned at BSE
 
 # Second Milestone
-<!-- For your second milestone, explain what you’ve worked on since your previous milestone. You can highlight:
+For your second milestone, explain what you’ve worked on since your previous milestone. You can highlight:
 
 Technical details of what you’ve accomplished and how they contribute to the final goal
 What has been surprising about the project so far
 Previous challenges you faced that you overcame
-What needs to be completed before your final milestone -->
+What needs to be completed before your final milestone
 
 # First Milestone
-<!-- For your first milestone, describe what your project is and how you plan to build it. You can include:
+For your first milestone, describe what your project is and how you plan to build it. You can include:
 
 An explanation about the different components of your project and how they will all integrate together
 Technical progress you’ve made so far
@@ -41,7 +41,7 @@ What your plan is to complete your project -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/60VA6kidIu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Schematics 
+<!-- # Schematics 
 
 # Code
 
@@ -75,4 +75,4 @@ One of the best parts about Github is that you can view how other people set up 
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
+To watch the BSE tutorial on how to create a portfolio, click here. -->
