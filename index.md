@@ -27,6 +27,7 @@ Previous challenges you faced that you overcame
 What needs to be completed before your final milestone -->
 
 # First Milestone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J0KFbBLnFsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   My project is the Arduino game console, and to build it, I need to first start with assembling the PCB. It consists of mulitple pieces, such as the push buttons, that let the user play the games on the console, the potentiometer, which essentially control the volume, multiple wires which connect all the different parts to the Arduino nano inside, and most importantly, the LCD screen. So far, I have assembled the PCB and connected all the wires so that when connected to a power source, the LCD screen should light up. The biggest challenge I have faced so far was trying to recreate the PCB from scratch and modifying it. The next step would be to finish assembling the rest of the console so I can start adding the games to it.
 
 # Starter Project
