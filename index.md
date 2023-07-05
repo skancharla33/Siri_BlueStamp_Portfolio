@@ -20,7 +20,6 @@ What you hope to learn in the future after everything you’ve learned at BSE
 https://www.youtube.com/watch?v=KGnOF_G8m-U + https://www.instructables.com/Arduino-LCD-Game/ - modifications -->
 
 # Second Milestone
-For your second milestone, explain what you’ve worked on since your previous milestone. You can highlight:
   After finishing the PCB, I worked on adding the acrylic pieces to the game console. I ended up cutting and sanding the acrylic by hand so it could easily fit in the console. The acrylic also prevents the wires from going all over the place. I hot glued everything together once I was sure the LCD could turn on without having to hold the wires in a certain way. A big challenge I faced was trying to get the LCD to light up. I was able to get it to light up after realizing that it wasn't working because I didn't solder two wires together. Another challenge I faced was having to adjust the size of the hole the LCD would go in. Since it was too small for the LCD, I had to use a dremel to cut of some of the 3D print, which was challenging because I had to avoid all the wires that were still attached to the console. Next I will be adding the games to the console, which will be my third milestone. 
 
 # First Milestone
