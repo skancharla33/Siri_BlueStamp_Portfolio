@@ -1,5 +1,5 @@
 # Arduino Game Console
-The arduino game console is a console that allows the user to play one of two games: hangman and star chaser. The user uses the buttons on the console to choose between the two games and play them.
+The arduino game console is a console that allows the user to play one of two games: hangman and star chaser. The user uses the buttons on the console to choose between the two games and play them. The game console also includes a pentiometer and a passive buzzer, which produces the sound effects from the games. 
 
 <!-- Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you’ve built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! FIX BIO FORMATTING -->
 
@@ -10,14 +10,13 @@ The arduino game console is a console that allows the user to play one of two ga
 
 ![Headstone Image](logo.svg)
   
-<!-- # Final Milestone
-For your final milestone, explain the outcome of your project. Key details to include are:
+# Final Milestone
 
-What you’ve accomplished since your previous milestone
-What your biggest challenges and triumphs were at BSE
-A summary of key topics you learned about
-What you hope to learn in the future after everything you’ve learned at BSE
-https://www.youtube.com/watch?v=KGnOF_G8m-U + https://www.instructables.com/Arduino-LCD-Game/ - modifications -->
+  Since the completion of my second milestone, I have added the code and made sure the games work properly. The conosle is now fully functioning, though I would still like to add another game to the console. As a result of my decision, the bottom of the console is not yet secured.
+  One of the biggest challenges for this milestone was getting the code to display on the LCD screen. I later learned that the problem was the display contrast, which I was easily able to fix. The next big challenge was getting the buttons to work. As a result of weak soldering, the 'D' button wouldn't work during one of the games, and the problem was fixed after redoing the soldering. The biggest challenge during the project was getting the LCD to light up and wiring the PCB, since I had to do thos since scratch. My biggest triumph was being able to get the LCD to turn on, since it was a problem I tried to fix for the longest time.
+  Some key topics I learned throughout this project include learning how to use wires to recreate PCBs, how to drill, dremel, and cut acrylic, and code and troubleshoot. I learned that bridging helps connect mulitple wires together, and that they have to be secure so that there won't be any loose connections. I also learned that there are many ways to solve a specific issue, and you should keep finding those solutions because they might be easier. I hope to learn more about the different functions of each wiring connection after Bluestamp, as well as how to create more Arduino projects. 
+
+<!-- https://www.youtube.com/watch?v=KGnOF_G8m-U + https://www.instructables.com/Arduino-LCD-Game/ - modifications -->
 
 # Second Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEASH0IJAb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
