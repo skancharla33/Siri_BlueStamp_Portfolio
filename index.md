@@ -54,11 +54,23 @@ void loop() {
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Cylewet 12Pcs 12mm Self-Locking Latching Push Button Switch | the buttons used to play the games | $6.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Cylewet-Self-Locking-Latching-Button-CYT1091/dp/B075VBV4QH/ref=sr_1_3?crid=RCATN019DRYE&keywords=cylewet+self+locking+latching+push+button+switch&qid=1686851815&s=industrial&sprefix=cylewet+self+locking+latching+push+button+switch%2Cindustrial%2C136&sr=1-3)"> Link </a> |
+| Arduino Nano [A000005]| contains the code + displays it on the LCD screen | $26.00 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Arduino-A000005-ARDUINO-Nano/dp/B0097AU5OU/ref=sr_1_15?keywords=arduino+nano&qid=1689619724&sprefix=ardui%2Caps%2C312&sr=8-15)"> Link </a>|
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Push Buttons | the buttons used to play the games | $12.49 | <a href="[[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Cylewet-Self-Locking-Latching-Button-CYT1091/dp/B075VBV4QH/ref=sr_1_3?crid=RCATN019DRYE&keywords=cylewet+self+locking+latching+push+button+switch&qid=1686851815&s=industrial&sprefix=cylewet+self+locking+latching+push+button+switch%2Cindustrial%2C136&sr=1-3)](https://www.amazon.com/dp/B09BKXT1J1/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=e5ba732c2d3ca4c21552ac330b3c7721&content-id=amzn1.sym.43de8b42-cb89-4910-88e0-25fae4edd09e%3Aamzn1.sym.43de8b42-cb89-4910-88e0-25fae4edd09e&hsa_cr_id=8823072600001&pd_rd_plhdr=t&pd_rd_r=b0be636c-167c-4005-8e93-7c5ca7bdcd33&pd_rd_w=EZTWJ&pd_rd_wg=7vyMv&qid=1689619885&ref_=sbx_be_s_sparkle_lsi4d_asin_0_img&sr=1-1-5aa29f2a-1490-4ae2-848e-815fb6406bcf)"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 20x4 LCD with IIC | displays the game code | $20.99 | <a href="https://www.amazon.com/Backlight-Module-Shield-Character-R3，Yellow-Green/dp/B09L15ZRDB/ref=sr_1_23_sspa?crid=1X766E6X1OC1U&keywords=20x4+lcd+green&qid=1689619992&s=industrial&sprefix=20x4+lcd+green%2Cindustrial%2C225&sr=1-23-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| Power Switch | turns on the LCD and starts the code | $5.99 | <a href="https://www.amazon.com/5Pcs-Rocker-Switch-Position-QTEATAK/dp/B07Y1GDRQG/ref=sr_1_31_sspa?crid=3IIKEQV8TQU6A&keywords=power%2Bswitch&qid=1689620179&s=industrial&sprefix=power%2Bswitch%2Cindustrial%2C172&sr=1-31-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&th=1"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| Passive Buzzer | plays the sounds for the games | $7.99 | <a href="https://www.amazon.com/Gikfun-Terminals-Passive-Electronic-Arduino/dp/B01GJLE5BS/ref=sr_1_1_sspa?crid=10R1ME2HY8TNB&keywords=passive+buzzer&qid=1689620324&s=industrial&sprefix=passive+buzze%2Cindustrial%2C163&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| 5K Potentiometer | controls the volume of the buzzer sounds | $9.29 | <a href="https://www.amazon.com/HiLetgo-Single-Joint-Potentiometer-Variable-Resistors/dp/B00N1ZIXKA/ref=sr_1_1_sspa?crid=2NR1CC9X47527&keywords=5k+potentiometer&qid=1689620479&s=industrial&sprefix=5k+potentiometer%2Cindustrial%2C203&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href=""> Link </a> |
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href=""> Link </a> |
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href=""> Link </a> |
 |:--:|:--:|:--:|:--:|
 
 # Other Resources/Examples
