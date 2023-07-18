@@ -48,7 +48,7 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 }
-```
+``` -->
 
 # Bill of Materials
 
@@ -76,7 +76,7 @@ void loop() {
 |:--:|:--:|:--:|:--:|
 | Anker Power Core | provides power to the game console | $17.99 | <a href="https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/ref=sr_1_5?keywords=anker+power+core&qid=1689704440&sr=8-5"> Link </a> |
 |:--:|:--:|:--:|:--:|
-# Other Resources/Examples
+<!-- # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
