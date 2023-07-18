@@ -56,36 +56,47 @@ void loop() {
 |:--:|:--:|:--:|:--:|
 
 | Arduino Nano [A000005]| contains the code + displays it on the LCD screen | $26.00 | <a href="https://www.amazon.com/Arduino-A000005-ARDUINO-Nano/dp/B0097AU5OU/ref=sr_1_15?keywords=arduino+nano&qid=1689619724&sprefix=ardui%2Caps%2C312&sr=8-15"> Link </a>|
+
 |:--:|:--:|:--:|:--:|
 
 | Push Buttons | the buttons used to play the games | $12.49 | <a href="https://www.amazon.com/dp/B09BKXT1J1/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=e5ba732c2d3ca4c21552ac330b3c7721&content-id=amzn1.sym.43de8b42-cb89-4910-88e0-25fae4edd09e%3Aamzn1.sym.43de8b42-cb89-4910-88e0-25fae4edd09e&hsa_cr_id=8823072600001&pd_rd_plhdr=t&pd_rd_r=b0be636c-167c-4005-8e93-7c5ca7bdcd33&pd_rd_w=EZTWJ&pd_rd_wg=7vyMv&qid=1689619885&ref_=sbx_be_s_sparkle_lsi4d_asin_0_img&sr=1-1-5aa29f2a-1490-4ae2-848e-815fb6406bcf"> Link </a> |
+
 |:--:|:--:|:--:|:--:|
 
 | 20x4 LCD with IIC | displays the game code | $20.99 | <a href="https://www.amazon.com/Backlight-Module-Shield-Character-R3，Yellow-Green/dp/B09L15ZRDB/ref=sr_1_23_sspa?crid=1X766E6X1OC1U&keywords=20x4+lcd+green&qid=1689619992&s=industrial&sprefix=20x4+lcd+green%2Cindustrial%2C225&sr=1-23-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1"> Link </a> |
+
 |:--:|:--:|:--:|:--:|
 
 | Power Switch | turns on the LCD and starts the code | $5.99 | <a href="https://www.amazon.com/5Pcs-Rocker-Switch-Position-QTEATAK/dp/B07Y1GDRQG/ref=sr_1_31_sspa?crid=3IIKEQV8TQU6A&keywords=power%2Bswitch&qid=1689620179&s=industrial&sprefix=power%2Bswitch%2Cindustrial%2C172&sr=1-31-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&th=1"> Link </a> |
+
 |:--:|:--:|:--:|:--:|
 
 | Passive Buzzer | plays the sounds for the games | $7.99 | <a href="https://www.amazon.com/Gikfun-Terminals-Passive-Electronic-Arduino/dp/B01GJLE5BS/ref=sr_1_1_sspa?crid=10R1ME2HY8TNB&keywords=passive+buzzer&qid=1689620324&s=industrial&sprefix=passive+buzze%2Cindustrial%2C163&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+
 |:--:|:--:|:--:|:--:|
 
 | 5K Potentiometer | controls the volume of the buzzer sounds | $9.29 | <a href="https://www.amazon.com/HiLetgo-Single-Joint-Potentiometer-Variable-Resistors/dp/B00N1ZIXKA/ref=sr_1_1_sspa?crid=2NR1CC9X47527&keywords=5k+potentiometer&qid=1689620479&s=industrial&sprefix=5k+potentiometer%2Cindustrial%2C203&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+
 |:--:|:--:|:--:|:--:|
 
 | PCB Slide Switch | when flipped with the power switch, the LCD turns on | $5.39 | <a href="https://www.amazon.com/HiLetgo-SS-12D00-Toggle-Switch-Vertical/dp/B07RTJDW27/ref=sr_1_1_sspa?crid=L9I00AUUZ6FI&keywords=pcb+slide+switch&qid=1689704060&sprefix=pcb+slide+switch%2Caps%2C209&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+
 |:--:|:--:|:--:|:--:|
 
 | Jumper Wires | connects the LCD to the screw terminals | $6.99 | <a href="https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_1_sspa?crid=2QFB4HN24N83&keywords=jumper%2Bwires&qid=1689704142&sprefix=jumper%2Bwires%2Caps%2C177&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"> Link </a> |
+
 |:--:|:--:|:--:|:--:|
 
 | Wires | connects to the PCB parts | $8.99 | <a href="https://www.amazon.com/Fermerry-Silicone-Electrical-Cables-Stranded/dp/B089D2B6T6/ref=sr_1_1_sspa?crid=1REQ7JJZ2YCNK&keywords=wires&qid=1689704239&sprefix=wires%2Caps%2C222&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+
 |:--:|:--:|:--:|:--:|
 
 | Screw terminals | holds multiple wires | $8.99 | <a href="https://www.amazon.com/Tnisesm-0-2inch-Terminal-Connector-Spliced/dp/B088LSS14J/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d%3Aamzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d&crid=2WFAVKKDE9HRQ&cv_ct_cx=screw+terminal&keywords=screw+terminal&pd_rd_i=B088LSS14J&pd_rd_r=3bfba2d0-d147-454b-903e-613e748f20cb&pd_rd_w=XdRQl&pd_rd_wg=7mtsr&pf_rd_p=1c86ab1a-a73c-4131-85f1-15bd92ae152d&pf_rd_r=X3RS20J0PQWFG8DW3T8S&qid=1689704357&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=screw+t%2Caps%2C175&sr=1-2-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1"> Link </a> |
+
 |:--:|:--:|:--:|:--:|
 
 | Anker Power Core | provides power to the game console | $17.99 | <a href="https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/ref=sr_1_5?keywords=anker+power+core&qid=1689704440&sr=8-5"> Link </a> |
+
 |:--:|:--:|:--:|:--:|
 
 
