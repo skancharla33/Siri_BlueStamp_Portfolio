@@ -6,7 +6,7 @@ The arduino game console is a console that allows the user to play one of two ga
 |:--:|:--:|:--:|:--:|
 | Siri K.| Irvington High School | Aerospace Engineering | Rising Junior
 
-
+<img src="https://raw.githubusercontent.com/skancharla33/Siri_BlueStamp_Portfolio/gh-pages/IMG_9311.png" width=50% height=50%>
 ![Headstone Image](IMG_9311.png)
 
 # Modification
