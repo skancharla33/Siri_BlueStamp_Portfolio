@@ -1479,10 +1479,8 @@ void loop()
 |:--:|:--:|:--:|:--:|
 
 
-<!-- # Other Resources
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here. -->
+# Resources and Links
+Here are the links to the resources I used to help me complete this project.
+- [Starter Project] (http://www.spikenzielabs.com/Downloadables/uselessmachine/Useless-Machine-Soldering-Edition.pdf)
+- [Intensive Project] (https://www.instructables.com/Arduino-Games-Console-With-Multiple-Games/)
+- [Modification] (https://www.hackster.io/arduinocelentano/space-invaders-like-game-on-1602-lcd-character-display-ef4e6d)
