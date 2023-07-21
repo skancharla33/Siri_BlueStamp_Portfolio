@@ -8,7 +8,7 @@ The arduino game console is a console that allows the user to play one of two ga
 | Siri K.| Irvington High School | Aerospace Engineering | Rising Junior
 
 
-![Headstone Image](logo.svg)
+![Headstone Image](097C41E6-A6F9-4A1C-B3DC-2C5F3FC40704.heic)
 # Modification
   For my modification, I chose to add a third game to the game console. Finding one that would match the demensions of my LCD was very challenging, so I settled for games meant for 16x2 LCDs. Originally, I chose to code a two player ping pong game, but since the code had too many issues, I chose flappy bird. I ended up having a similar problem with flappy bird, so I searched for different games until I found space invaders. After changing the code a little, the game worked perfectly. However, the game still hasn't been added to the original code, so I hope to do that next, as well as add more games to the console in the future.
   Some key topics I learned throughout this project include learning how to use wires to recreate PCBs, how to drill, dremel, and cut acrylic, and code and troubleshoot. I learned that bridging helps connect mulitple wires together, and that they have to be secure so that there won't be any loose connections. I also learned that there are many ways to solve a specific issue, and you should keep finding those solutions because they might be easier. I hope to learn more about the different functions of each wiring connection after Bluestamp, as well as how to create more Arduino projects. 
