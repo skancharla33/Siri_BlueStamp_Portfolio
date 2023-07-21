@@ -37,8 +37,6 @@ The arduino game console is a console that allows the user to play one of two ga
 
 # Schematics 
 
-![acrylic_print](EnclosureV1+-+Instructables.dxf)
-![bezel](Bezel+v1.stl)
 ![PCB_layout](FFXLUA5LDU95FUR.png.webp)
 
 # Code
