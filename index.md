@@ -6,7 +6,12 @@ The arduino game console is a console that allows the user to play one of two ga
 |:--:|:--:|:--:|:--:|
 | Siri K.| Irvington High School | Aerospace Engineering | Rising Junior
 
-<img src="IMG_9311.png" width=50% height=50%>
+<div style="width: 50%; height: 50%">
+  
+  ![image](IMG_9311.png)
+  
+</div>
+
 
 # Modification
   For my modification, I chose to add a third game to the game console. Finding one that would match the demensions of my LCD was very challenging, so I settled for games meant for 16x2 LCDs. Originally, I chose to code a two player ping pong game, but since the code had too many issues, I chose flappy bird. I ended up having a similar problem with flappy bird, so I searched for different games until I found space invaders. After changing the code a little, the game worked perfectly. However, the game still hasn't been added to the original code, so I hope to do that next, as well as add more games to the console in the future.
