@@ -1481,6 +1481,6 @@ void loop()
 
 # Resources and Links
 Here are the links to the resources I used to help me complete this project.
-- [Starter Project] (http://www.spikenzielabs.com/Downloadables/uselessmachine/Useless-Machine-Soldering-Edition.pdf)
-- [Intensive Project] (https://www.instructables.com/Arduino-Games-Console-With-Multiple-Games/)
-- [Modification] (https://www.hackster.io/arduinocelentano/space-invaders-like-game-on-1602-lcd-character-display-ef4e6d)
+- [Starter Project](http://www.spikenzielabs.com/Downloadables/uselessmachine/Useless-Machine-Soldering-Edition.pdf)
+- [Intensive Project](https://www.instructables.com/Arduino-Games-Console-With-Multiple-Games/)
+- [Modification](https://www.hackster.io/arduinocelentano/space-invaders-like-game-on-1602-lcd-character-display-ef4e6d)
